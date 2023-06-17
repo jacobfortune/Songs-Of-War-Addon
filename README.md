@@ -6,5 +6,5 @@ Credits to BlazeDrake for the original idea but now his original addon no longer
 
   Any Ideas? Add issues with stuff you want me to add, make sure to check out BlazeDrakes original addon at mcpedl.com 
 
-  If you think you can improve this addon and use it yourself you can! Just make sure to credit me (ThetruePyrobyte) and BlazeDrake! I'd like to create a bedrock server for this soon so if anyones good with that kind of thing please email me or comment in the issues.
+  If you think you can improve this addon and use it yourself you can! Just make sure to credit me (ThetruePyrobyte) and BlazeDrake! I'd like to create a bedrock server for this soon so if anyones good with that kind of thing please email me or comment in the issues. (B) stands for behaviour pack and (R) is Rescource pack, you can download it in it's according manner.
 </b>
