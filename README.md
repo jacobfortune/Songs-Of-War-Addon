@@ -1,5 +1,5 @@
 # Songs-Of-War-Addon
-I am creating an addon for Songs of War. It's most likely not going to take not as long as I expected, I've almost entirely fixed the original mod and I am soon going to be incorporating my own ideas!
+I am creating an addon for Songs of War. It's most likely not going to take not as long as I expected, I've almost entirely fixed the original mod and I am soon going to be incorporating my own ideas! This is for minecraft 1.20 but will probably work for lower versions as well.
 
 <b>
 Credits to BlazeDrake for the original idea but now his original addon no longer works, and thankyou to Squared Media for the original creation of Songs Of War. This addon is meant to use BlazeDrake's ideas and utilities along with a few of my own, to add to the textures and rescources already provided by Squared Media to create an addon that allows us to play Songs Of War in an iventive and fun way. 
