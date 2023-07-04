@@ -9,15 +9,14 @@ Credits to BlazeDrake for the original idea but now his original addon no longer
   If you think you can improve this addon and use it yourself you can! Just make sure to credit me (ThetruePyrobyte) and BlazeDrake! I'd like to create a bedrock server for this soon so if anyones good with that kind of thing please email me or comment in the issues. (B) stands for behaviour pack and (R) is Rescource pack, you can download it in it's according manner. 
 </b>
 
-This is version 1.8 of the addon, be sure to expect many more updates in the future!
+This is version 1.8 of the addon, be sure to expect many more updates in the future! https://www.mediafire.com/file/5y12uk69azh885k/ezyZip.mcworld/file 
 
 <i> <u>
   VISION BOARD
 </u>
 - Custom weapon maker (In-Game!) 
 - Realistic Sword Fighting (Swords clash and block!)
-- Reaper and Necromancer races
-- Human NPC from each kingdom
+- Reaper, Jaggathan and Necromancer races
 - Any ideas?
 </i>
 
