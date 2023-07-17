@@ -16,7 +16,7 @@ https://www.mediafire.com/file/5y12uk69azh885k/ezyZip.mcworld/file
 <i> <u>
   VISION BOARD
 </u>
-- Custom weapon maker (In-Game!) 
+- Custom weapons, just send me geometry and the textures of a weapon alongside it's name and effects and I'll consider it's damage but I <b>will</b> add your weapon into this addon.
 - Realistic Sword Fighting (Swords clash and block!)
 - Reaper, Jaggathan and Necromancer races
 - Any ideas?
