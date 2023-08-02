@@ -9,7 +9,7 @@ Credits to BlazeDrake for the original idea but now his original addon no longer
   If you think you can improve this addon and use it yourself you can! Just make sure to credit me (ThetruePyrobyte) and BlazeDrake! I'd like to create a bedrock server for this soon so if anyones good with that kind of thing please email me or comment in the issues. (B) stands for behaviour pack and (R) is Rescource pack, you can download it in it's according manner. We have been having a few issues such as the addon working for me but not for others in the same extent. If you know how to code or have a solution or even just an idea, please email me, comment in the discussions or create an issue
 </b>
 
-This is version 1.9 of the addon, be sure to expect many more updates in the future!
+This is version 2.0 of the addon, be sure to expect many more updates in the future!
 This a mcworld file of the original map of ardonia.
 [https://www.mediafire.com/file/5y12uk69azh885k/ezyZip.mcworld/file ](https://www.mediafire.com/file/5y12uk69azh885k/ezyZip.mcworld/file)
 
