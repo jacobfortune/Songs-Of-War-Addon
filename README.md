@@ -13,7 +13,7 @@ This is version 2.0 of the addon, be sure to expect many more updates in the fut
 This a mcworld file of the original map of ardonia.
 [https://www.mediafire.com/file/5y12uk69azh885k/ezyZip.mcworld/file ](https://www.mediafire.com/file/5y12uk69azh885k/ezyZip.mcworld/file)
 
-This will be a minecraft bedrock server in the future, visit the discord here. It's a work in progress but with your help it will grow. [https://discord.gg/UyY572CU ](https://discord.gg/CvrwK8Nu)
+This will be a minecraft bedrock server in the future, visit the discord here. It's a work in progress but with your help it will grow. (https://discord.gg/KZFwfSV4F)
 
 <i> <u>
   VISION BOARD
