@@ -15,14 +15,22 @@ This a mcworld file of the original map of ardonia.
 
 This will be a minecraft bedrock server in the future, visit the discord here. It's a work in progress but with your help it will grow. (https://discord.gg/KZFwfSV4F)
 <i> <u>
+
 Credits
+        
 </i></u>
 BlazeDrake- original addon
+
 Zador- his custom weapon, karambit knife
+
 KaltarisBlade- his custom weapon, the kaltaris blade
+
 BigEliaz- his custom weapon, the merciless broadwsord
+
 Lucien- inspiration for the aether
+
 SQM- for the orignal animation SoW
+
 <i> <u>
   VISION BOARD
 </u>
