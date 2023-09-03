@@ -11,7 +11,7 @@ Credits to BlazeDrake for the original idea but now his original addon no longer
 
 This is version 2.0 of the addon, be sure to expect many more updates in the future!
 This a mcworld file of the original map of ardonia with both nether and end, it also includes my addon (eventually.)
-https://www.mediafire.com/file/wnk4ez2bksa999v/SoW+world.mcworld/file
+https://www.mediafire.com/file/nl3xbrqy7e6zg1e/sow_world-20230903T125101Z-001.mcworld/file
 
 This will be a minecraft bedrock server in the future, visit the discord here. It's a work in progress but with your help it will grow. (https://discord.gg/KZFwfSV4F)
 <i> <u>
