@@ -13,7 +13,7 @@ This is version 2.0 of the addon, be sure to expect many more updates in the fut
 This a mcworld file of the original map of ardonia with both nether and end, it also includes my addon (eventually.)
 https://www.mediafire.com/file/nl3xbrqy7e6zg1e/sow_world-20230903T125101Z-001.mcworld/file
 
-This will be a minecraft bedrock server in the future, visit the discord here. It's a work in progress but with your help it will grow. (https://discord.gg/KZFwfSV4F)
+This will be a minecraft bedrock server in the  future, visit the discord here. It's a work in progress but with your help it will grow. (https://discord.gg/KZFwfSV4F)
 <i> <u>
 
 Credits
@@ -36,7 +36,7 @@ SQM- for the orignal animation SoW
 </u>
 - Custom weapons, just send me geometry and the textures of a weapon alongside it's name and effects and I'll consider it's damage but I <b>will</b> add your weapon into this addon.
 - Realistic Sword Fighting (Swords clash and block!)
-- Reaper, Jaggathan and Necromancer races
+- JAGGATHAN FINALLY DONE
 - Any ideas?
 </i>
 
